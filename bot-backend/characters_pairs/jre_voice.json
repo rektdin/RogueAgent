@@ -1,0 +1,14 @@
+{
+    "default": {
+      "stability": 0.5,
+      "similarityBoost": 0.8,
+      "style": 0.0,
+      "useSpeakerBoost": true
+    },
+    "x86uQqNKUBgPBwbii6G0": {
+      "stability": 0.8,
+      "similarityBoost": 0.7,
+      "style": 0.3,
+      "useSpeakerBoost": true
+    }
+  }

@@ -1,0 +1,35 @@
+{
+  "Agent Rogue": {
+    "name": "Agent Rogue",
+    "avatar_url": "/JRE_AGENT_F1.png",
+    "voice_id": "joe-rogan",
+    "mouth_positions": {
+      "10": "/final/joe_F1.png",
+      "20": "/final/joe_F2.png",
+      "30": "/final/joe_F3.png",
+      "40": "/final/joe_F4.png"
+    }
+  },
+  "Frank Degods": {
+    "name": "Frank Degods",
+    "avatar_url": "/frank_F1.png",
+    "voice_id": "x86uQqNKUBgPBwbii6G0",
+    "mouth_positions": {
+      "10": "/final/frank_F2.png",
+      "20": "/final/frank_F4.png",
+      "30": "/final/frank_F5.png",
+      "40": "/final/frank_F8.png"
+    }
+  },
+  "ThreadGuy": {
+    "name": "ThreadGuy",
+    "avatar_url": "/thread_F1.png",
+    "voice_id": "hK1c69ipPOeBqWfQIxUe",
+    "mouth_positions": {
+      "10": "/final/thread_F2.png",
+      "20": "/final/thread_F3.png",
+      "30": "/final/thread_F7.png",
+      "40": "/final/thread_F10.png"
+    }
+  }
+}

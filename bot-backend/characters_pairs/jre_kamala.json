@@ -1,0 +1,12 @@
+{
+  "Agent Rogue": {
+    "name": "Agent Rogue",
+    "avatar_url": "/joe-rogan.jpeg",
+    "voice_id": "joe-rogan"
+  },
+  "Kamala Harris": {
+    "name": "Kamala Harris",
+    "avatar_url": "/kamala-harris.jpg",
+    "voice_id": "kamala-harris"
+  }
+}

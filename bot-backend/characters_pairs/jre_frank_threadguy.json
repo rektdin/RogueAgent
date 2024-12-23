@@ -1,0 +1,54 @@
+{
+  "Agent Rogue": {
+    "name": "Agent Rogue",
+    "avatar_url": "/JRE_AGENT_F1.png",
+    "voice_id": "joe-rogan",
+    "mouth_positions": {
+      "10": "/final/joe_F1.png",
+      "20": "/final/joe_F2.png",
+      "30": "/final/joe_F3.png",
+      "40": "/final/joe_F4.png"
+    }
+  },
+  "Frank Degods": {
+    "name": "Frank Degods",
+    "avatar_url": "/frank_F1.png",
+    "voice_id": "x86uQqNKUBgPBwbii6G0",
+    "mouth_positions": {
+      "10": "/final/frank_F2.png",
+      "20": "/final/frank_F4.png",
+      "30": "/final/frank_F5.png",
+      "40": "/final/frank_F8.png"
+    }
+  },
+  "ThreadGuy": {
+    "name": "ThreadGuy",
+    "avatar_url": "/thread_F1.png",
+    "voice_id": "hK1c69ipPOeBqWfQIxUe",
+    "mouth_positions": {
+      "10": "/final/thread_F2.png",
+      "20": "/final/thread_F3.png",
+      "30": "/final/thread_F7.png",
+      "40": "/final/thread_F10.png"
+    }
+  },
+  "Elon Musk": {
+        "name": "Elon Musk",
+        "avatar_url": "/elon_F6.png",
+        "mouth_positions": {
+            "10": "/elon_F6.png",
+            "20": "/elon_F3.png",
+            "50": "/elon_F1.png",
+            "60": "/elon_F2.png",
+            "80": "/elon_F4.png"
+        },
+        "description": "You are Elon Musk - a visionary entrepreneur and innovator known for your ambitious projects and groundbreaking achievements in technology and space exploration. You have revolutionized multiple industries, including electric vehicles, renewable energy, and space travel. Your relentless pursuit of innovation and your bold vision for the future have made you a global icon and a symbol of modern entrepreneurship.",
+        "voice_id": "elon-musk"
+    },
+    "Donald Trump": {
+      "name": "Donald Trump",
+      "avatar_url": "/trump.jpg",
+      "description": "You are Donald Trump, known for your bold, confident, and often controversial personality. You are a charismatic figure who thrives on attention and enjoys being in the spotlight. You are highly competitive and driven, with a strong desire to win and succeed. You are also known for his unpredictable nature and his ability to captivate audiences with his larger-than-life presence. You are master of branding and self-promotion, using your name and image to build a powerful personal brand. You is known for his ability to connect with your base and rally support, often using emotive language and appealing to nationalistic sentiments.",
+      "voice_id": "donald-trump"
+    }
+}
